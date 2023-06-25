@@ -1,2 +1,8 @@
 # HKmepo
-HKmepo Beta 1
+Welcome to HKmepo
+This Beta 2 update
+# Info
+Install HTML setup.
+
+
+
